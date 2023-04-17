@@ -1,0 +1,94 @@
+{
+  "employees": [
+    {
+      "id": 3,
+      "firstname": "Ankita",
+      "email": "ankita@gmail.com",
+      "phone": "07489210127",
+      "password": "Ankita@!32",
+      "city": "ror",
+      "gender": "female"
+    },
+    {
+      "id": 4,
+      "firstname": "ankur updates",
+      "email": "ankur@gmail.com",
+      "password": "Ankur@123",
+      "city": "php",
+      "gender": "male",
+      "phone": 7489210127
+    },
+    {
+      "id": 5,
+      "firstname": "Swati Sharma",
+      "email": "Swati@gmail.com",
+      "password": "swati@123",
+      "city": "php",
+      "gender": "male",
+      "phone": 7489210127
+    },
+    {
+      "id": 6,
+      "firstname": "anurag",
+      "email": "anurag@gmail.com",
+      "password": "Anurag@123",
+      "city": "php",
+      "gender": "male",
+      "phone": 7489210127
+    },
+    {
+      "id": 7,
+      "firstname": "Rahul Patidar",
+      "email": "rahul@gmail.com",
+      "password": "Rahuyl@123",
+      "city": "react",
+      "gender": "male",
+      "phone": "07489210127"
+    },
+    {
+      "id": 8,
+      "firstname": "Sonam",
+      "email": "Agrawal",
+      "password": "Sonam@gamil",
+      "city": "ror",
+      "gender": "female",
+      "phone": "07489210127"
+    },
+    {
+      "firstname": "arpit",
+      "email": "arpit@gmail.com",
+      "phone": "07489210127",
+      "password": "Apit@1232",
+      "city": "ror",
+      "gender": "male",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "firstname": "Aman gangrade",
+      "email": "aman@gmail.com",
+      "password": "AAman@123",
+      "city": "python",
+      "gender": "male",
+      "phone": "89787686786"
+    },
+    {
+      "id": 11,
+      "firstname": "Karuna Sakle",
+      "email": "karunasakle@gmail.com",
+      "password": "KAruna@!23",
+      "city": "react",
+      "gender": "female",
+      "phone": "07489210127"
+    },
+    {
+      "firstname": "Mona ",
+      "email": "mona@gmail.com",
+      "phone": "07489210127",
+      "password": "Mona@123",
+      "city": "ror",
+      "gender": "female",
+      "id": 12
+    }
+  ]
+}
