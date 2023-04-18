@@ -22,7 +22,7 @@
       "id": 5,
       "firstname": "Swati Sharma",
       "email": "Swati@gmail.com",
-      "password": "swati@123",
+      "password": "Swati@123",
       "city": "php",
       "gender": "male",
       "phone": 7489210127
@@ -89,6 +89,60 @@
       "city": "ror",
       "gender": "female",
       "id": 12
+    },
+    {
+      "id": 13,
+      "firstname": "Ankita",
+      "email": "ankita@gmail.com",
+      "phone": "07489210127",
+      "password": "Ankita@!32",
+      "city": "ror",
+      "gender": "female"
+    },
+    {
+      "id": 14,
+      "firstname": "Ankita",
+      "email": "ankita@gmail.com",
+      "phone": "07489210127",
+      "password": "Ankita@!32",
+      "city": "ror",
+      "gender": "female"
+    },
+    {
+      "id": 15,
+      "firstname": "Ankita",
+      "email": "ankita@gmail.com",
+      "phone": "07489210127",
+      "password": "Ankita@!32",
+      "city": "ror",
+      "gender": "female"
+    },
+    {
+      "id": 16,
+      "firstname": "Ankita",
+      "email": "ankita@gmail.com",
+      "phone": "07489210127",
+      "password": "Ankita@!32",
+      "city": "ror",
+      "gender": "female"
+    },
+    {
+      "id": 17,
+      "firstname": "Ankita",
+      "email": "ankita@gmail.com",
+      "phone": "07489210127",
+      "password": "Ankita@!32",
+      "city": "ror",
+      "gender": "female"
+    },
+    {
+      "id": 18,
+      "firstname": "Ankita",
+      "email": "ankita@gmail.com",
+      "phone": "07489210127",
+      "password": "Ankita@!32",
+      "city": "ror",
+      "gender": "female"
     }
   ]
 }

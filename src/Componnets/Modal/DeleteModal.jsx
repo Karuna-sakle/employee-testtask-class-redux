@@ -2,16 +2,14 @@ import { Button, Dialog, DialogActions, DialogContent, DialogContentText } from 
 import React, { Component } from 'react'
 
 export default class DeleteModal extends Component {
-  constructor(props){
-    super(props);
-    
-  }
+    constructor(props){
+      super(props);
+    }
   render() {
     return (
       <Dialog
             fullWidth={true}
-            open={ this.props?.openDltModal ? true : undefined}
-        >
+            open={ this.props?.openDltModal}>
             <DialogContent>
                 <DialogContentText id="alert-dialog-description">
                     Are you sure want to delete?

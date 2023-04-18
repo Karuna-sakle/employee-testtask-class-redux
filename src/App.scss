@@ -30,3 +30,12 @@
         }
     }
 }
+.search-input{
+    width: 32vh;
+    height: 34px;
+    border-radius: 5px;
+    margin-left: 15px;
+    &:hover {
+        background-color:aliceblue;
+     }
+}

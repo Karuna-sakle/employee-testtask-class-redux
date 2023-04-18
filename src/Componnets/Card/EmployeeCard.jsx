@@ -1,17 +1,15 @@
-import { Card, CardActions, CardContent, IconButton, Button, Typography } from '@mui/material';
+import { Card, CardActions, CardContent, Button, Typography } from '@mui/material';
 import React, { Component } from 'react'
 
 export default class EmployeeCard extends Component {
   constructor(props) {
     super(props);
-    
+
   }
-
-
   render() {
     return (
-      <Card className="article-card" key={this.props.index}>
-        <CardContent>
+      <Card className="article-card">
+        <CardContent >
           <Typography variant="h7"><span>FirstName: </span>{this.props?.user?.firstname}</Typography>
           <Typography variant="body1"><span>Email: </span>{this.props?.user?.email}</Typography>
           <Typography variant="body1"><span>Password: </span>{this.props?.user?.password}</Typography>
@@ -26,7 +24,7 @@ export default class EmployeeCard extends Component {
             color="primary"
             aria-label="Edit"
             component="label"
-            onClick={() =>this.props?.OpenEditModal(this.props?.user)?.bind(this)}
+            onClick={() => this.props?.OpenEditModal(this.props?.user)?.bind(this)}
           >
             Edit
             {/* <ModeEditOutlineIcon /> */}
@@ -35,7 +33,7 @@ export default class EmployeeCard extends Component {
             color="error"
             aria-label="Delete"
             component="label"
-            onClick={()=>this.props?.openDeleteModal(this.props?.user?.id)?.bind(this)}
+            onClick={() => this.props?.openDeleteModal(this.props?.user?.id)?.bind(this)}
           >
             {/* <DeleteIcon /> */}
             Delete
